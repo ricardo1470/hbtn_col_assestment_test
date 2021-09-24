@@ -13,6 +13,6 @@
 ## License
 *`hbtn_col_assestment_test` is open source and therefore free to download and use without permission.*
 
-<a href="url"><img src="https://assets.holbertonschool.com/media_images/files/000/001/247/original/header-logo-700.png" align="middle" width="100" height="30"></a>
+<a href="url"><img src="https://assets.holbertonschool.com/media_images/files/000/001/247/original/header-logo-700.png" align="middle" width="100" height="50"></a>
 
 ---
